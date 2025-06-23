@@ -1,6 +1,6 @@
 # 🔍 Thalorien - Ultimate Cybersecurity Toolkit
 *Developed by Rifat - A comprehensive security suite with 40+ specialized tools*
-![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/RifatArefinBD-Thalorien/visits)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RifatArefinBD.Thalorien)
 
 
 ![Thalorien Banner](https://media.discordapp.net/attachments/1385907983657074791/1386728159688265848/Flux_Dev_Create_a_futuristic_and_hightech_banner_image_called__3.jpg?ex=685ac2bd&is=6859713d&hm=ef26efa724410d869155b01982f624e53b88f39a61f21a9f36de18a4d3413f3c&=&format=webp&width=1415&height=800)
