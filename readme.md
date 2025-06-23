@@ -69,7 +69,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/RifatArefinBD/thalorien.git
+git clone https://github.com/RifatArefinBD/Thalorien.git
 
 # Install dependencies
 pip install -r requirements.txt
