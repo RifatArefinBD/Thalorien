@@ -1,0 +1,6 @@
+requests>=2.25.1
+scapy>=2.4.5
+colorama>=0.4.4
+psutil>=5.8.0
+concurrent-log-handler>=0.9.20  # For advanced logging if needed
+pyopenssl>=20.0.1  # For ssl module functionality
